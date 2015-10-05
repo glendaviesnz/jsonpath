@@ -36,5 +36,8 @@
     "path",
     "data structures"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "jspm" :{
+    "registry": "npm"
+  }
 }
